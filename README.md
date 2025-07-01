@@ -2,9 +2,6 @@
 ![Visualizações no perfil](https://komarev.com/ghpvc/?username=GGufreitas&color=006bed)
 
 <h1 align="center">Olá! 👋 Me chamo Gustavo Freitas</h1>
-
-<h1 align="center">Olá! Me chamo Gustavo Freitas 👋</h1>
-
 <p align="center">
 Sou estudante de Análise e Desenvolvimento de Sistemas com grande interesse no desenvolvimento back-end, buscando consolidar meus conhecimentos em estrutura de dados, arquitetura de software e boas práticas de programação com Java e Python. 🚀
 </p>
