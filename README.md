@@ -45,6 +45,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/gustavo-freitas-andrade-510901266/))
+[![Linkedin](https://img.shields.io/badge/-Gustavo-Freitas-Andrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/gustavo-freitas-andrade-510901266/))
 [![Gmail Badge](https://img.shields.io/badge/-ggfreitasdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:ggfreitasdev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/GGuFreitas)
