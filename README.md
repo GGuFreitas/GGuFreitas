@@ -14,7 +14,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com grande interesse no 
 ## 🚀 Sobre Mim
 
 - 📍 Natural de Suzano - SP  
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – 3º semestre – UMC  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – 3º semestre – 
 - 💻 Estudando e desenvolvendo projetos com foco em **Back-end**  
 - 🌱 Aprendendo mais sobre:
   - **Estruturas de Dados e Algoritmos**
@@ -49,14 +49,19 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com grande interesse no 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### 🛢 Banco de Dados
+
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
 ## 🔧 Projetos em Desenvolvimento
 
-- **📚 Sistema de Gestão Escolar (Flask + SQLAlchemy + Bootstrap)**  
+- **📚 Sistema de Gestão Escolar (Flask + SQLAlchemy + Bootstrap) em desenvolvimento**  
   Painel administrativo, autenticação com Flask-Login, CRUD completo de usuários, turmas e disciplinas.
 
-- **🛠 Sistema de Estoque (Java + Spring Boot)** *(em desenvolvimento)*  
+- **🛠 Sistema de Estoque (Java + Spring Boot)** **  
   Projeto com foco em arquitetura MVC, JPA, controllers REST, autenticação de usuários e manipulação de banco de dados MySQL.
 
 - **📈 Analisador de Preços com Mercado Livre API (Python)**  
