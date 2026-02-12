@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá! 👋 Sou Gustavo Freitas</h1>
 <p align="center">
-Desenvolvedor Full-Stack especializado em Java Spring Boot & React | Recém-formado em Análise e Desenvolvimento de Sistemas 🚀
+Desenvolvedor Junior especializado em Java Spring Boot & React | formado em Análise e Desenvolvimento de Sistemas 🚀
 </p>
 
 ---
@@ -11,7 +11,7 @@ Desenvolvedor Full-Stack especializado em Java Spring Boot & React | Recém-form
 
 - 📍 São Paulo, SP  
 - 🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
-- 💻 **Desenvolvedor Full-Stack Júnior** capacitado e pronto para projetos reais
+- 💻 **Desenvolvedor Júnior** capacitado e pronto para projetos reais
 - 🔧 **Stack principal:** Java Spring Boot (Back-end) + React (Front-end)
 - 🎯 **Foco:** Desenvolver aplicações web robustas, escaláveis e com código limpo
 
@@ -24,6 +24,7 @@ Desenvolvedor Full-Stack especializado em Java Spring Boot & React | Recém-form
 **Conhecimentos aplicados em projetos práticos:**
 - **Java Spring Boot:** REST APIs, Spring MVC, JPA/Hibernate, Spring Security
 - **React:** Componentes funcionais, Hooks, Context API, React Router
+- **Typescri:** tipagem 
 - **Arquitetura:** MVC, APIs RESTful, Banco de Dados Relacionais
 - **Boas Práticas:** Clean Code, Versionamento com Git, Documentação
 
@@ -36,8 +37,6 @@ Desenvolvedor Full-Stack especializado em Java Spring Boot & React | Recém-form
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🗄️ Banco de Dados & Ferramentas
@@ -57,8 +56,6 @@ Desenvolvedor Full-Stack especializado em Java Spring Boot & React | Recém-form
 ## 🔧 Projetos em Destaque
 
 ### **🎓 Sistema de Gestão Escolar/Escola de Dança**
-**Status:** Back-end ✅ Concluído | Front-end 🚧 Em desenvolvimento
-
 **📋 Sobre o projeto:** 
 Sistema completo para gestão administrativa de instituições de ensino/escola de dança, desenvolvido com stack profissional moderna.
 
@@ -67,17 +64,11 @@ Sistema completo para gestão administrativa de instituições de ensino/escola 
 - **Front-end:** React, TypeScript, Tailwind CSS
 - **Banco de Dados:** MySQL (produção), H2 (desenvolvimento)
 - **Documentação:** Swagger/OpenAPI
-- **Ferramentas:** Maven, Git, Postman
+- **Ferramentas:** Maven, Git, Postman, Docker
+- **Deploy:** Vercel, render, Neon
 
-**🎯 Funcionalidades:**
-- Gestão completa de alunos, professores e turmas
-- Controle de matrículas e pagamentos
-- Sistema de autenticação e autorização
-- APIs RESTful documentadas com Swagger
-- Interface responsiva e moderna
 
 ### **🌍 ECONEXA - Sistema de Monitoramento Ambiental**
-**Status:** Versão JSP ✅ Concluída | Migração para Spring Boot 🚧 Em andamento
 
 **📋 Sobre o projeto:** 
 Projeto acadêmico desenvolvido durante a graduação para monitoramento ambiental com integração de mapas.
@@ -94,21 +85,6 @@ Projeto acadêmico desenvolvido durante a graduação para monitoramento ambient
 - **Novas funcionalidades:** Gráficos em tempo real, notificações
 - **Arquitetura:** Separação clara entre front-end e back-end
 
-**🎯 Objetivo da migração:**
-- Aplicar conhecimento profissional adquirido
-- Implementar boas práticas de arquitetura
-- Criar base para novas funcionalidades
-- Preparar para deploy em produção
-
-
-### **🌐 Portfólio Pessoal**
-**Status:** ✅ Concluído
-
-Portfólio profissional desenvolvido para exibir projetos e habilidades técnicas.
-
-**Tecnologias:** React, TypeScript, CSS Modules, Deploy no GitHub Pages/Vercel
-
----
 
 ## 📊 GitHub Stats
 
