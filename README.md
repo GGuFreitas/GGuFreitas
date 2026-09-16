@@ -73,14 +73,6 @@ Uma trilha de 24 semanas de backend além do CRUD, que escrevo conforme estudo: 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GGufreitas&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGufreitas&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
----
 
 ## 📬 Bora conversar
 
