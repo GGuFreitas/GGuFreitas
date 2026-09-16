@@ -9,7 +9,7 @@ Dev Full-Stack · TypeScript, React e Node — com um pé no Java Spring Boot �
 
 ## 👨‍💻 Sobre
 
-Formado em ADS, de São Paulo. Escrevo TypeScript quase o dia inteiro: React na frente, Node atrás.
+Formado em ADS, de São Paulo. Escrevo TypeScript, React , Node, fastify e começando desenvolvimento mobile react native.
 Java e Spring Boot ficam nos projetos pessoais — não largo porque gosto.
 
 ---
